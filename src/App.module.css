@@ -1,9 +1,30 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
 body{
-    background-image: url("../public/19366.jpg");
+    background-image: url("../src/Images/19366.jpg");
     background-size:cover;
     background-position:initial;
+    /*  */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  ul{
+    position: relative;
+    display: flex;
+  }
+
+  ul li{
+    position:relative;
+    list-style: none;
+    margin: 0px 20px;
+    cursor: pointer;
   }
 
   .titleHv{
     font-family:Tahoma;
+    text-align: center;
   }

@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content:space-around;
+    font-size:x-large;
+    width:auto;
+    font-family:Tahoma;
+}
+
+.active{
+    color: black;
+    text-underline-offset: 5px;
+    text-decoration-color: Blue;
+  }
+  
+  .disable {
+    text-decoration: none;
+    color: inherit;
+  }
