@@ -7,6 +7,7 @@ import Profile from "./components/profile/Profile"
 import Skills from "./components/skills/Skills.jsx"
 import Experiences from "../src/components/experiences/Experiences"
 import SocialMedia from "../src/components/Social_media/SocialMedia";
+import References from "./components/references/References"
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path='/Profile' element={<Profile />} />
         <Route path='/Skills' element={<Skills />} />
         <Route path='/Experiences' element={<Experiences />} />
+        <Route path='/References' element={<References />} />
       </Routes>
       <div>
         <SocialMedia />

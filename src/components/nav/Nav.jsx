@@ -17,6 +17,7 @@ export default function Nav(props) {
             <NavLinkMe to="/Profile">Perfil Profesional</NavLinkMe>
             <NavLinkMe to="/Skills">Habilidades</NavLinkMe>
             <NavLinkMe to="/Experiences">Experiencias Laborales</NavLinkMe>
+            <NavLinkMe to="/References">Referencias</NavLinkMe>
         </div>
     )
 }

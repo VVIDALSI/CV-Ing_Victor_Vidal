@@ -2,7 +2,6 @@
     display: flex;
     height: 70px;
     width: auto;
-    border: 2px solid red;
     justify-content: center;
 }
 

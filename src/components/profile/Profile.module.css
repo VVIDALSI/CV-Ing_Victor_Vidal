@@ -1,7 +1,6 @@
 .containerProfile{
     width:100%vw;
     height:80vh;
-    border: 2px black solid;
     display: grid;
     align-items: center;
     justify-content: center;
@@ -9,21 +8,27 @@
 
 .profile{
     width: 60vw;
-    border: 2px blue solid;
+    height: 500px;
     display: flex;
     align-items: center;
     text-align: justify;
 }
 
-.profile p{
-    font-size: 20px;
-    border: 2px red solid;
+.profile h2{
+    font-size: 30px;
     width: 90%;
+    margin: 2.5%;
 }
 
-.imgFotoCV{
-    margin: 30px;
-    width: 260px;
+.profile p{
+    font-size: 25px;
+    width: 90%;
+    margin: 2.5%;
+}
+
+.profile .imgFotoCV{
+    margin: 40px;
+    height: 360px;
     border-radius: 50%;
     border: 3px rgba(157, 212, 240, 0.533) solid;
     box-shadow: aquamarine;
