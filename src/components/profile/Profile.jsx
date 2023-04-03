@@ -1,6 +1,6 @@
 import React from "react";
 import stlProfile from "./Profile.module.css";
-import FotoCV from "../../Images/FotoHV.jpg"
+import FotoCV from "../../Images/FotoHV.svg"
 
 
 export default function Profile() {

@@ -1,6 +1,6 @@
 import React from "react";
 import stlCard from "./Card.module.css";
-import FotoCV from "../../Images/FotoHV.jpg"
+import FotoCV from "../../Images/FotoHV.svg"
 
 
 
