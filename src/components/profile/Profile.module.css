@@ -1,14 +1,15 @@
 .containerProfile{
-    width:100%vw;
+    width:97.5vw;
     height:80vh;
-    display: grid;
+    display: flex;
     align-items: center;
     justify-content: center;
+    font-family:Tahoma;
 }
 
 .profile{
-    width: 60vw;
-    height: 500px;
+    width: 70vw;
+    height: 400px;
     display: flex;
     align-items: center;
     text-align: justify;
@@ -17,18 +18,18 @@
 .profile h2{
     font-size: 30px;
     width: 90%;
-    margin: 2.5%;
+    
 }
 
 .profile p{
     font-size: 25px;
-    width: 90%;
-    margin: 2.5%;
+    width: 40vw;
+    
 }
 
 .profile .imgFotoCV{
     margin: 40px;
-    height: 360px;
+    height: 50vh;
     border-radius: 50%;
     border: 3px rgba(157, 212, 240, 0.533) solid;
     box-shadow: aquamarine;

@@ -1,6 +1,5 @@
 import React from "react";
 import Nav from "./components/nav/Nav"
-import stlApp from "./App.module.css"
 import { Routes, Route } from "react-router-dom"
 import Card from "./components/card/Card"
 import Profile from "./components/profile/Profile"
@@ -8,10 +7,11 @@ import Skills from "./components/skills/Skills.jsx"
 import Experiences from "../src/components/experiences/Experiences"
 import SocialMedia from "../src/components/Social_media/SocialMedia";
 import References from "./components/references/References"
+import stlApp from "./App.module.css"
 
 function App() {
   return (
-    <div>
+    <div className={stlApp.appContainer}>
       <div>
         <Nav />
       </div>

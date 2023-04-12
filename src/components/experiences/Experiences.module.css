@@ -1,8 +1,35 @@
 .containerExp{
     width:100%vw;
     height:80vh;
-    border: 2px black solid;
-    display: grid;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.exp {
+    width: 210px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    /* border: 1px aquamarine solid; */
+    box-shadow: 0 0 20px  rgba(157, 212, 240, 0.533);
+    border-radius: 10%;
+    border: 1px rgba(157, 212, 240, 0.533) solid ;
+}
+
+.exp:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.exp img {
+    padding: 2px;
+}
+
+.exp span {
+    padding: 2px;
+    font-family:Tahoma;
 }

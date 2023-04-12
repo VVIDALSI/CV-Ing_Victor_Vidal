@@ -11,9 +11,10 @@ export default function Profile() {
                 <div>
                     <h2>Perfil profesional:</h2>
                     <p>
-                        Soy un ingeniero mecatrónico con más de 11 años de experiencia en gerencia de proyecto bajo la metodologia PMI, proyectos HVAC y proyectos de robótica, así como en diseño industrial en sistemas CAD 2D y 3D.
+                        Soy un ingeniero mecatrónico con más de 11 años de experiencia en gerencia de proyectos bajo la metodología PMI, proyectos HVAC y proyectos de robótica, así como en diseño industrial en sistemas CAD 2D y 3D.<br /><br />
 
                         Mi experiencia me ha permitido desarrollar habilidades en liderazgo y trabajo en equipo. Soy una persona proactiva, analítica y creativa, capaz de encontrar soluciones innovadoras y eficientes para cada proyecto en el que participo.
+
                     </p>
                 </div>
             </div>

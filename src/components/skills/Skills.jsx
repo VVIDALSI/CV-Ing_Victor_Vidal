@@ -1,37 +1,39 @@
 import React from "react";
-import stlSkill from "./Skill.module.css";
+import imgHTML from "../../Images/HTML.png"
+import imgCSS from "../../Images/CSS3.svg"
+import imgJS from "../../Images/Fundamentos_de_JavaScript.png"
+import imgGit from "../../Images/Control_de_Versiones_y_Git.png"
+import imgAcad from "../../Images/autocad-2016-seeklogo.com.svg"
+import imgInventor from "../../Images/LogoInventor.svg"
+import stlSkills from "./Skill.module.css"
 
 
-export default function Profile() {
+export default function Skills() {
     return (
-        <div className={stlSkill.containerSkills}>
-            <div className={stlSkill.skillBx}>
-                <span className={stlSkill.title}>HTML</span>
-                <div className={stlSkill.skillBar}>
-                    <span className={stlSkill.skillPer.html}></span>
-                    <span className={stlSkill.tooltip}>90%</span>
-                </div>
+        <div className={stlSkills.sklContainer}>
+            <div className={stlSkills.skl}>
+                <img src={imgHTML} alt="html" />
+                <span>HTML</span>
             </div>
-            <div className={stlSkill.skillBx}>
-                <span className={stlSkill.title}>CSS</span>
-                <div className={stlSkill.skillBar}>
-                    <span className={stlSkill.skillPer.css}></span>
-                    <span className={stlSkill.tooltip}>70%</span>
-                </div>
+            <div className={stlSkills.skl}>
+                <img src={imgCSS} alt="CSS" />
+                <span>CSS</span>
             </div>
-            <div className={stlSkill.skillBx}>
-                <span className={stlSkill.title}>JavaScript</span>
-                <div className={stlSkill.skillBar}>
-                    <span className={stlSkill.skillPer.js}></span>
-                    <span className={stlSkill.tooltip}>50%</span>
-                </div>
+            <div className={stlSkills.skl}>
+                <img src={imgJS} alt="JS" />
+                <span>JavaScript</span>
             </div>
-            <div className={stlSkill.skillBx}>
-                <span className={stlSkill.title}>NodeJS</span>
-                <div className={stlSkill.skillBar}>
-                    <span className={stlSkill.skillPer.node}></span>
-                    <span className={stlSkill.tooltip}>30%</span>
-                </div>
+            <div className={stlSkills.skl}>
+                <img src={imgGit} alt="Git" />
+                <span>GIT</span>
+            </div>
+            <div className={stlSkills.skl}>
+                <img src={imgAcad} alt="AutoCAD 2D y 3D" />
+                <span>AutoCAD 2D y 3D</span>
+            </div>
+            <div className={stlSkills.skl}>
+                <img src={imgInventor} alt="Inventor" />
+                <span>Autodesk Inventor</span>
             </div>
         </div>
     );

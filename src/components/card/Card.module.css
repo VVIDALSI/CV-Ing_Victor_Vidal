@@ -16,8 +16,7 @@
 
 .imgFotoCV{
     margin: 20px;
-    width: 250px;
+    width: 20%;
     border-radius: 50%;
     border: 3px rgba(157, 212, 240, 0.533) solid;
-    box-shadow: aquamarine;
 }
