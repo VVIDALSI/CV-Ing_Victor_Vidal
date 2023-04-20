@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/CV-Ing_Victor_Vidal/static/css/main.760e3488.css",
-    "main.js": "/CV-Ing_Victor_Vidal/static/js/main.6f5c7f28.js",
-    "static/media/FotoHV.svg": "/CV-Ing_Victor_Vidal/static/media/FotoHV.1676a6b0068b23178c2323f0d1f82e76.svg",
-    "static/media/19366.jpg": "/CV-Ing_Victor_Vidal/static/media/19366.bf47c3b18db67d5c5c39.jpg",
-    "static/media/whatsapp.png": "/CV-Ing_Victor_Vidal/static/media/whatsapp.d026940870fb334920b7.png",
-    "static/media/Serviparamo.png": "/CV-Ing_Victor_Vidal/static/media/Serviparamo.aa0e15be66927f274547.png",
-    "static/media/telefono.png": "/CV-Ing_Victor_Vidal/static/media/telefono.fb244201058d6b0c101c.png",
-    "static/media/linkedin.png": "/CV-Ing_Victor_Vidal/static/media/linkedin.6892b3ae328c7a1e055f.png",
-    "static/media/Fundamentos_de_JavaScript.png": "/CV-Ing_Victor_Vidal/static/media/Fundamentos_de_JavaScript.5a3d8e554fb539ca4377.png",
-    "static/media/johnson-johnson-4.svg": "/CV-Ing_Victor_Vidal/static/media/johnson-johnson-4.2c0a6cfadbc9edf39989a0e45bf66fd2.svg",
-    "static/media/HTML.png": "/CV-Ing_Victor_Vidal/static/media/HTML.63feacb1d20cbd89eeeb.png",
-    "static/media/Control_de_Versiones_y_Git.png": "/CV-Ing_Victor_Vidal/static/media/Control_de_Versiones_y_Git.fa6490ff2a21d9bcf62d.png",
-    "static/media/LogoInventor.svg": "/CV-Ing_Victor_Vidal/static/media/LogoInventor.394b2459419e3c147be272aa4faff504.svg",
-    "static/media/elEmpleo.svg": "/CV-Ing_Victor_Vidal/static/media/elEmpleo.8610f535da8b2e09e0baf06fe309f5e1.svg",
-    "static/media/autocad-2016-seeklogo.com.svg": "/CV-Ing_Victor_Vidal/static/media/autocad-2016-seeklogo.com.fddf9e22ba189866c0f7b0042a64a284.svg",
-    "static/media/CSS3.svg": "/CV-Ing_Victor_Vidal/static/media/CSS3.820754f66d616a33053902bc6504df97.svg",
-    "index.html": "/CV-Ing_Victor_Vidal/index.html",
-    "main.760e3488.css.map": "/CV-Ing_Victor_Vidal/static/css/main.760e3488.css.map",
-    "main.6f5c7f28.js.map": "/CV-Ing_Victor_Vidal/static/js/main.6f5c7f28.js.map"
+    "main.css": "/static/css/main.9c00b231.css",
+    "main.js": "/static/js/main.36dbffe6.js",
+    "static/media/FotoHV.svg": "/static/media/FotoHV.1676a6b0068b23178c2323f0d1f82e76.svg",
+    "static/media/19366.jpg": "/static/media/19366.bf47c3b18db67d5c5c39.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/Serviparamo.png": "/static/media/Serviparamo.aa0e15be66927f274547.png",
+    "static/media/telefono.png": "/static/media/telefono.fb244201058d6b0c101c.png",
+    "static/media/linkedin.png": "/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/Fundamentos_de_JavaScript.png": "/static/media/Fundamentos_de_JavaScript.5a3d8e554fb539ca4377.png",
+    "static/media/johnson-johnson-4.svg": "/static/media/johnson-johnson-4.2c0a6cfadbc9edf39989a0e45bf66fd2.svg",
+    "static/media/HTML.png": "/static/media/HTML.63feacb1d20cbd89eeeb.png",
+    "static/media/Control_de_Versiones_y_Git.png": "/static/media/Control_de_Versiones_y_Git.fa6490ff2a21d9bcf62d.png",
+    "static/media/LogoInventor.svg": "/static/media/LogoInventor.394b2459419e3c147be272aa4faff504.svg",
+    "static/media/elEmpleo.svg": "/static/media/elEmpleo.8610f535da8b2e09e0baf06fe309f5e1.svg",
+    "static/media/autocad-2016-seeklogo.com.svg": "/static/media/autocad-2016-seeklogo.com.fddf9e22ba189866c0f7b0042a64a284.svg",
+    "static/media/CSS3.svg": "/static/media/CSS3.820754f66d616a33053902bc6504df97.svg",
+    "index.html": "/index.html",
+    "main.9c00b231.css.map": "/static/css/main.9c00b231.css.map",
+    "main.36dbffe6.js.map": "/static/js/main.36dbffe6.js.map"
   },
   "entrypoints": [
-    "static/css/main.760e3488.css",
-    "static/js/main.6f5c7f28.js"
+    "static/css/main.9c00b231.css",
+    "static/js/main.36dbffe6.js"
   ]
 }
