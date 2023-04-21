@@ -13,6 +13,7 @@ function App() {
   return (
     <div className={stlApp.appContainer}>
       <meta http-equiv="refresh" content="0; URL='https://vvidalsi.github.io/Inicio'" />
+      <h2>Prueba</h2>
       <div>
         <Nav />
         <Card />
