@@ -13,7 +13,7 @@ const NavLinkMe = ({ to, children, ...props }) => {
 export default function Nav(props) {
     return (
         <div className={stlNav.container}>
-            <NavLinkMe to="/Home">Inicio</NavLinkMe>
+            <NavLinkMe to="/">Inicio</NavLinkMe>
             <NavLinkMe to="/Profile">Perfil Profesional</NavLinkMe>
             <NavLinkMe to="/Skills">Habilidades</NavLinkMe>
             <NavLinkMe to="/Experiences">Experiencias Laborales</NavLinkMe>
