@@ -12,6 +12,7 @@ import stlApp from "./App.module.css"
 function App() {
   return (
     <div className={stlApp.appContainer}>
+      <meta http-equiv="refresh" content="0; URL='https://vvidalsi.github.io/Inicio'" />
       <div>
         <Nav />
       </div>
