@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CV-Ing_Victor_Vidal/static/css/main.760e3488.css",
-    "main.js": "/CV-Ing_Victor_Vidal/static/js/main.60307c60.js",
+    "main.js": "/CV-Ing_Victor_Vidal/static/js/main.3a14f8a4.js",
     "static/media/FotoHV.svg": "/CV-Ing_Victor_Vidal/static/media/FotoHV.1676a6b0068b23178c2323f0d1f82e76.svg",
     "static/media/19366.jpg": "/CV-Ing_Victor_Vidal/static/media/19366.bf47c3b18db67d5c5c39.jpg",
     "static/media/whatsapp.png": "/CV-Ing_Victor_Vidal/static/media/whatsapp.d026940870fb334920b7.png",
@@ -18,10 +18,10 @@
     "static/media/CSS3.svg": "/CV-Ing_Victor_Vidal/static/media/CSS3.820754f66d616a33053902bc6504df97.svg",
     "index.html": "/CV-Ing_Victor_Vidal/index.html",
     "main.760e3488.css.map": "/CV-Ing_Victor_Vidal/static/css/main.760e3488.css.map",
-    "main.60307c60.js.map": "/CV-Ing_Victor_Vidal/static/js/main.60307c60.js.map"
+    "main.3a14f8a4.js.map": "/CV-Ing_Victor_Vidal/static/js/main.3a14f8a4.js.map"
   },
   "entrypoints": [
     "static/css/main.760e3488.css",
-    "static/js/main.60307c60.js"
+    "static/js/main.3a14f8a4.js"
   ]
 }
