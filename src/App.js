@@ -15,9 +15,10 @@ function App() {
       <meta http-equiv="refresh" content="0; URL='https://vvidalsi.github.io/Inicio'" />
       <div>
         <Nav />
+        <Card />
       </div>
       <Routes>
-        <Route path='/Inicio' element={<Card />} />
+        {/* <Route path='/Inicio' element={<Card />} /> */}
         <Route path='/Profile' element={<Profile />} />
         <Route path='/Skills' element={<Skills />} />
         <Route path='/Experiences' element={<Experiences />} />
